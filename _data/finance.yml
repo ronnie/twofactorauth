@@ -75,7 +75,7 @@ websites:
       url: https://bills.mint.com
       twitter: mintbills
       img: mintbills.png
-      tfa: No
+      tfa: Yes
 
     - name: Paychex
       url: https://www.paychex.com
